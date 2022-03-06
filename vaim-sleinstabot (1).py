@@ -8,7 +8,7 @@ import random
 import sys
 import os
 import pyttsx3
-
+import jalan 
 
 logo = """
 
@@ -19,13 +19,13 @@ logo = """
   |/(_/(_(_/ / / /_---_/_/ / /_/_)_(__(_/(_/_)(_)(__ 
                                                      
                                                      
-    [✔]  https://github.com/VaimpierOfficial    [✔]
+    [✔]  https://github.com/jbsn7   [✔]
     [✔]             Version 1.0.0               [✔]
     [✔]  Please Don't Use For illegal Activity  [✔]
 
         """                                                          
-
-#mujhe pata hai function bna sakte the mager programming rule jo chal gya use mat chhedoo hehehe !!! isliye rukgye jb time milega funtion
+jalan ("\33m Ravi singh ")
+# lo ban gya function 😁😁😁
 #bnayege speech ka >>>>>>>>>
 #let's start >>>>>>>>>>>>>>>>>>>>>>>>
 engine = pyttsx3.init()
